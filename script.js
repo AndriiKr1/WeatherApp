@@ -3,7 +3,6 @@ const apiKey = "5a95e683f735185d2f28013fa349e69e";
 const locationInput = document.getElementById("locationInput");
 const getWeatherBtn = document.getElementById("getWeatherBtn");
 const weatherContainer = document.getElementById("weatherContainer");
-// fhdsfsdasdadada
 //https://api.openweathermap.org/data/2.5/weather?q={locationInput}&appid={apiKey}&units=metric
 
 getWeatherBtn.onclick = () => {
